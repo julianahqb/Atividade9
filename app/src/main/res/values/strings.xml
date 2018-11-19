@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercício</string>
+    <string name="definirData">Definir Data</string>
+    <string name="definirHora">Definir Hora</string>
+</resources>
